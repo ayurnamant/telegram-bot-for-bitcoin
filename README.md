@@ -37,7 +37,7 @@ You need to Download from the PlayStore :
 
 ## [+] Find Me
 
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/yuceltoluyag)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-green?style=for-the-badge&logo=youtube)](https://goo.gl/u7DrB1)
-[![Telegram](https://img.shields.io/badge/telegram-TECH--COCHI-green?style=for-the-badge&logo=telegram)](https://t.me/yuceltoluyag)
+[![Github](https://img.shields.io/badge/Github-Yücel--Baba-green?style=for-the-badge&logo=github)](https://github.com/yuceltoluyag)
+[![YouTube](https://img.shields.io/badge/youtube-Yücel--Baba-green?style=for-the-badge&logo=youtube)](https://goo.gl/u7DrB1)
+[![Telegram](https://img.shields.io/badge/telegram-Yücel--Baba-green?style=for-the-badge&logo=telegram)](https://t.me/yuceltoluyag)
 
