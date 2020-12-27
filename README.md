@@ -33,3 +33,11 @@ You need to Download from the PlayStore :
  5. pip install --upgrade pip
  6. pip install -r requirements.txt
  7. python [coin-name].py phone_number  ( Example :  python BCH.py +123456789 )
+
+
+## [+] Find Me
+
+[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/yuceltoluyag)
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-green?style=for-the-badge&logo=youtube)](https://goo.gl/u7DrB1)
+[![Telegram](https://img.shields.io/badge/telegram-TECH--COCHI-green?style=for-the-badge&logo=telegram)](https://t.me/yuceltoluyag)
+
