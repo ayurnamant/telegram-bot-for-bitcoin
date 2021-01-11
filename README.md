@@ -39,5 +39,5 @@ You need to Download from the PlayStore :
 
 [![Github](https://img.shields.io/badge/Github-Yücel--Baba-green?style=for-the-badge&logo=github)](https://github.com/yuceltoluyag)
 [![YouTube](https://img.shields.io/badge/youtube-Yücel--Baba-green?style=for-the-badge&logo=youtube)](https://goo.gl/u7DrB1)
-[![Telegram](https://img.shields.io/badge/telegram-Yücel--Baba-green?style=for-the-badge&logo=telegram)](https://t.me/yuceltoluyag)
+[![Telegram](https://img.shields.io/badge/telegram-Yücel--Baba-green?style=for-the-badge&logo=telegram)](https://t.me/adamcoder)
 
